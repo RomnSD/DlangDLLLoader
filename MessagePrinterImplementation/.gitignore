@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/messageprinterimplementation
+messageprinterimplementation.so
+messageprinterimplementation.dylib
+messageprinterimplementation.dll
+messageprinterimplementation.a
+messageprinterimplementation.lib
+messageprinterimplementation-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

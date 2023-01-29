@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Brayan Roman"
+	],
+	"copyright": "Copyright © 2023, Brayan Roman",
+	"description": "DLL loader",
+	"license": "proprietary",
+	"name": "dlangdllloader",
+	"targetType": "executable",
+	"libs": [".\\MessagePrinter\\messageprinter"],
+	"importPaths": [
+		".\\MessagePrinter\\source"
+	]
+}

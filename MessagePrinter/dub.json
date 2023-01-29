@@ -1,0 +1,8 @@
+{
+	"authors": ["Brayan Roman"],
+	"copyright": "Copyright © 2023, Brayan Roman",
+	"description": "API",
+	"license": "proprietary",
+	"name": "messageprinter",
+	"targetType": "library"
+}

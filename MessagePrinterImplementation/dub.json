@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Brayan Roman"
+	],
+	"copyright": "Copyright © 2023, Brayan Roman",
+	"description": "API",
+	"license": "proprietary",
+	"name": "messageprinterimplementation",
+	"targetType": "dynamicLibrary",
+	"sourcePaths": ["source"],
+	"libs": ["..\\MessagePrinter\\messageprinter"],
+	"importPaths": [
+		"..\\MessagePrinter\\source"
+	]
+}
